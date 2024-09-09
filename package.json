@@ -1,14 +1,14 @@
 {
   "name": "site-petshop",
   "version": "1.0.0",
-  "description": "",
+  "description": "Trabalho da Disciplina de Desenvolvimento Web",
   "main": "scripts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Bianca do Prado Palha",
+  "license": "MIT",
   "dependencies": {
     "http-server": "^14.1.1"
   }
