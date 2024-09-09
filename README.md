@@ -11,7 +11,7 @@ Peludo's Pet Shop é um site simples de loja pet construído com **HTML**, **CSS
 
 ## 🖥️ Demonstração
 
-Você pode acessar o site hospedado no GitHub Pages clicando [aqui](https://seu-usuario.github.io/seu-repositorio/).
+Você pode acessar o site hospedado no GitHub Pages clicando [aqui](https://bdoprado.github.io/site-petshop/).
 
 ## 📂 Estrutura do Projeto
 
@@ -40,11 +40,11 @@ Clone o projeto em sua máquina local.
 
 ### 2. Abrir Localmente
 
-Você pode rodar o projeto localmente abrindo o arquivo **index.html** no navegador ou utilizando um servidor estático, como o **http-server**.
+Você pode rodar o projeto localmente utilizando um servidor estático, como o **http-server**.
 
-#### Usando o http-server (opcional):
+#### Usando o http-server:
 
-Se você quiser rodar localmente usando um servidor HTTP, siga estas etapas.
+Para rodar localmente usando um servidor HTTP, siga estas etapas.
 
 1. Instale o **http-server** globalmente.
 
@@ -59,12 +59,6 @@ http-server .
 ```
 
 3. Acesse o projeto em `http://localhost:8080`.
-
-### 3. Deploy no GitHub Pages
-
-Se você fizer alguma alteração no projeto e quiser disponibilizar no GitHub Pages, siga esses passos.
-
-O GitHub Pages atualizará automaticamente o site.
 
 ## 🔧 Tecnologias Utilizadas
 
